@@ -8,17 +8,17 @@ Legado（阅读 App）书源。
 
 **搬山人小说网：**
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/legado-shuyuan@v1.5.1/banshanren.json
+https://cdn.jsdelivr.net/gh/wdfxpian/legado-shuyuan@v1.5.2/banshanren.json
 ```
 
 **爱丽丝书屋：**
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/legado-shuyuan@v1.5.1/alicesw.json
+https://cdn.jsdelivr.net/gh/wdfxpian/legado-shuyuan@v1.5.2/alicesw.json
 ```
 
 **合一导入（全部源）：**
 ```
-https://cdn.jsdelivr.net/gh/wdfkymd/legado-shuyuan@v1.5.1/all.json
+https://cdn.jsdelivr.net/gh/wdfxpian/legado-shuyuan@v1.5.2/all.json
 ```
 
 ---
@@ -33,7 +33,7 @@ https://cdn.jsdelivr.net/gh/wdfkymd/legado-shuyuan@v1.5.1/all.json
 ### 一键导入
 
 ```
-legado://import/bookSource?src=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwdfkymd%2Flegado-shuyuan%40v1.5.1%2Fbanshanren.json
+legado://import/bookSource?src=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwdfxpian%2Flegado-shuyuan%40v1.5.2%2Fbanshanren.json
 ```
 
 手机浏览器打开上面这行，或转成二维码扫码。
@@ -47,5 +47,5 @@ legado://import/bookSource?src=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwdfkymd%2Fl
 ### 一键导入
 
 ```
-legado://import/bookSource?src=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwdfkymd%2Flegado-shuyuan%40v1.5.1%2Falicesw.json
+legado://import/bookSource?src=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwdfxpian%2Flegado-shuyuan%40v1.5.2%2Falicesw.json
 ```

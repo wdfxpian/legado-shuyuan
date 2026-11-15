@@ -102,10 +102,10 @@
       "bookUrl": "h5 > a@href",
       "coverUrl": "",
       "intro": "p.content-txt@text",
-      "kind": "small@text##\\[(.*)\\]#$1",
+      "kind": "small@text##\\[(.*)\\]##$1",
       "lastChapter": "",
-      "name": "h5 > a@text##^\\d+\\.\\s*",
-      "wordCount": "p:contains(字数)@text##.*字数：(\\S+).*#$1"
+      "name": "h5 > a@text##^\\d+\\.\\s*(.*)##$1",
+      "wordCount": "p:contains(字数)@text##.*?字数：([\\d.]+[万亿字]?).*##$1"
     },
     "ruleToc": {
       "chapterList": "ul.mulu_list > li > a",

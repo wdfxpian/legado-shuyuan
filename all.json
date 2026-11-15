@@ -78,7 +78,7 @@
       "lastChapter": "div.novel_info p:contains(新) a@text",
       "name": "div.novel_title@text",
       "tocUrl": "a:contains(查看所有章节)@href",
-      "wordCount": "div.novel_info p:contains(数)@text##.*数：(\\S+).*#$1"
+      "wordCount": "div.novel_info p:contains(数)@text##.*?数：([\\d.]+[万亿字]?).*##$1"
     },
     "ruleContent": {
       "content": ".read-content p@textNodes",

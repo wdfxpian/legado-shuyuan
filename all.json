@@ -83,7 +83,7 @@
     "ruleContent": {
       "content": ".read-content p@textNodes",
       "imageStyle": "0",
-      "nextContentUrl": "a:contains(下一章)@href",
+      "nextContentUrl": "",
       "title": "div.text-head > h3@text"
     },
     "ruleExplore": {
